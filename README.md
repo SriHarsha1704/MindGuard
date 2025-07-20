@@ -1,20 +1,20 @@
-# 🌟 FullStack Project
+#  FullStack Project
 
 Welcome to **TechSophy Project** — a modern, clean, and customizable React application built with **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui**.
 
 ---
 
-## ✨ Tech Stack
+##  Tech Stack
 
-- ⚡ **Vite** — blazing fast build tool and dev server
-- ⚛️ **React** — for building interactive user interfaces
-- 🟦 **TypeScript** — type safety for maintainable code
-- 🎨 **Tailwind CSS** — utility-first styling for rapid design
-- 🧩 **shadcn-ui** — beautiful, accessible React components
+-  **Vite** — blazing fast build tool and dev server
+-  **React** — for building interactive user interfaces
+-  **TypeScript** — type safety for maintainable code
+-  **Tailwind CSS** — utility-first styling for rapid design
+-  **shadcn-ui** — beautiful, accessible React components
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 Here’s how to run this project locally:
 
