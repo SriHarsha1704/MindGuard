@@ -1,4 +1,4 @@
-# 🌟 TechSophy Project
+# 🌟 FullStack Project
 
 Welcome to **TechSophy Project** — a modern, clean, and customizable React application built with **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui**.
 
